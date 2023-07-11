@@ -1,4 +1,4 @@
-#Walmart Dashboard Project
+<h1>Walmart Project</h1>
 <h1>Summary</h1>
 This project showcases a Walmart dashboard created using data from 2011 to 2014. The dashboard was developed using two popular data visualization tools: Power BI Desktop and Tableau. The purpose of this project is to provide users with an interactive and informative visualization of the provided Walmart data, allowing them to explore various metrics and trends.
 
@@ -14,6 +14,8 @@ The Power BI dashboard offers a visually appealing and intuitive interface for e
 The Tableau dashboard presents a unique perspective on the Walmart data. It offers a set of interactive visualizations that provide additional insights and analytical capabilities. Users can explore different dimensions of the data, such as sales, profit, and product categories, to gain a comprehensive understanding of the dataset.
 
 <h1>Dataset Information</h1>
+https://drive.google.com/drive/folders/1pgTspqFEgbKrTD1khuYjiMjI3HPSEj0Z?usp=drive_link
+
 The dataset used in this project consists of Walmart data from 2011 to 2014. It includes information on various aspects, such as sales, profit, product categories, and time periods. The dataset provides a comprehensive view of Walmart's performance during the specified time range, allowing users to analyze trends and patterns.
 
 <h1>Contributing</h1>
