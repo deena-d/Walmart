@@ -37,3 +37,19 @@ If you encounter any issues while using the dashboard or have suggestions for im
 If you have any questions or need further assistance, you can reach out to the project owner, Deena D., via email at deena.d@example.com.
 
 We hope this README file helps you understand the project better. If you have any further questions or require additional information, please don't hesitate to reach out.
+<h1>Video demo in powerBI</h1>
+
+
+
+https://github.com/deena-d/Walmart/assets/107647091/c93487bb-60a0-4ee1-947c-f0f8c344b41a
+
+
+<h1>Video demo in Tableau</h1>
+
+https://github.com/deena-d/Walmart/assets/107647091/364ee3ba-f0af-46c8-86bd-26b233f648e1
+
+
+
+
+
+
